@@ -5,4 +5,4 @@ dimensions:
 scale: 2
 gravity: 0.5
 density: 25
-seconds_between_frames: 2
+seconds_between_frames: 0.05
