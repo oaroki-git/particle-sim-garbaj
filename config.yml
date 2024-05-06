@@ -1,0 +1,8 @@
+dimensions:
+  x: 300
+  y: 300
+
+scale: 2
+gravity: 0.5
+density: 25
+seconds_between_frames: 2
